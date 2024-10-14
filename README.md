@@ -5,7 +5,7 @@ Nayla camelia indraswari
 
 # Flowchart
 
-![minpro 2 drawio (1)](https://github.com/user-attachments/assets/a0f1614b-4e1a-4f9c-8e77-7e085157bba6)
+![minpro 2 drawio (2)](https://github.com/user-attachments/assets/4ef3d1d3-d611-4c6c-81cd-038a6c3bf50c)
 
 # Tampilan Output
 ## Menu Login
@@ -15,29 +15,27 @@ Berikut ini adalah tampilan dari menu login yang saya buat:
 ![{80522A38-2508-4268-9932-162639C9E50D}](https://github.com/user-attachments/assets/caa4c7e2-b4d2-4caa-adb8-c4090a3de0cf)
 
 ### Penjelasan 
-**1. Mahasiswa :**\
+**1. Mahasiswa:**\
 Jika user memilih 1 maka ia akan login sebagai mahasiswa. Mahasiswa hanya dapat melakukan input data berupa pengajuan jadwal konsultasi.
 
 **2. Dosen:**\
 Jika user memilih 2 maka ia akan login sebagai dosen. Dosen dapat melakukan create, read, update dan delete pada jadwal konsultasi yang ada.
 
-**3. Pilihhan selain 1 dan 2:**
+**3. Pilihan selain 1 dan 2:**
 
 ![{F001FD1C-F865-4BF6-A113-9172A40B8C88}](https://github.com/user-attachments/assets/e05ab4a3-732d-435c-a080-374378cbc621)
 
-
-
 apabila user melakukan input selain angka 1 dan 2 maka mode login tidak tersedia dan harus menginputkan angka yang benar agar bisa masuk ke program.
 
-# Menu Mahasiswa
+## Menu Mahasiswa
 
 Berikut adalah tampilan dari menu mahasiswa yang saya buat:
 
-![{D68EF011-2D9C-46EE-8FBB-50A6C0A9FD1A}](https://github.com/user-attachments/assets/486891bb-b27e-4653-9d83-ed89e858951e)
+![{F9384D5A-70FC-4C81-B731-011820FED637}](https://github.com/user-attachments/assets/fbea932d-8c19-4da1-9592-f7abff41579c)
 
-## Penjelasan
+### Penjelasan
 
-**1. Menampilkan jadwal kosnultasi yang sudah terjadwal**
+**1. Menampilkan jadwal komsultasi yang sudah terjadwal**
 
 ![{C6914D5C-4E7A-434B-A227-29FDA213944D}](https://github.com/user-attachments/assets/5de286d0-6b47-4ec7-87db-46f69fe23dad)
 
@@ -66,19 +64,19 @@ jika user memilih "kembali", maka akan arahkan ke menu login.
 
 jika user memilih "keluar", maka program selesai.
 
-# Menu Dosen
+## Menu Dosen
 
 ![{A42E2337-2395-41C8-B220-7359A856D6E2}](https://github.com/user-attachments/assets/38efcf05-6986-4cba-a25c-b225e951ac08)
 
 pada menu dosen terdapat 5 fitur yang bisa dipilih, mencakup CRUD (Create, Read, Update and Delete) di dalamnya.
 
-## Penjelasan
+### Penjelasan
 
 **1. Lihat jadwal konsultasi**
 
 ![{871A4E5A-9B5F-4FF2-BC36-17FA3C589E9A}](https://github.com/user-attachments/assets/13ab6ac4-2dc6-4caa-ba61-c41ba095537f)
 
-Jika user memilih 1 akan ditampilkan jadwal konsultasi yang sudah ada saat ini.
+Jika user memilih 1, akan ditampilkan jadwal konsultasi yang sudah ada.
 
 **2. Tambah jadwal konsultasi**
 
