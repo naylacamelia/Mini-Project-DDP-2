@@ -15,7 +15,7 @@ Berikut ini adalah tampilan dari menu login yang saya buat:
 ![{80522A38-2508-4268-9932-162639C9E50D}](https://github.com/user-attachments/assets/caa4c7e2-b4d2-4caa-adb8-c4090a3de0cf)
 
 ### Penjelasan 
-**1. Mahasiswa:**\
+**1. Mahasiswa:**
 
 Jika user memilih 1 maka ia akan login sebagai mahasiswa. Mahasiswa hanya dapat melakukan input data berupa pengajuan jadwal konsultasi.
 
