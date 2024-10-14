@@ -5,7 +5,7 @@ Nayla camelia indraswari
 
 # Flowchart
 
-![minpro 2 drawio (2)](https://github.com/user-attachments/assets/4ef3d1d3-d611-4c6c-81cd-038a6c3bf50c)
+![minpro 2 drawio (3)](https://github.com/user-attachments/assets/5d1b278d-c263-41e8-bd92-25a8a0270069)
 
 # Tampilan Output
 ## Menu Login
@@ -16,6 +16,7 @@ Berikut ini adalah tampilan dari menu login yang saya buat:
 
 ### Penjelasan 
 **1. Mahasiswa:**\
+
 Jika user memilih 1 maka ia akan login sebagai mahasiswa. Mahasiswa hanya dapat melakukan input data berupa pengajuan jadwal konsultasi.
 
 **2. Dosen:**\
