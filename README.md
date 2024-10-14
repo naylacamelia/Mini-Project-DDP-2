@@ -17,16 +17,16 @@ Berikut ini adalah tampilan dari menu login yang saya buat:
 ### Penjelasan 
 **1. Mahasiswa:**
 
-Jika user memilih 1 maka ia akan login sebagai mahasiswa. Mahasiswa hanya dapat melakukan input data berupa pengajuan jadwal konsultasi.
+Jika user memilih 1, maka ia akan login sebagai mahasiswa. Mahasiswa hanya dapat melakukan input data berupa pengajuan jadwal konsultasi.
 
 **2. Dosen:**\
-Jika user memilih 2 maka ia akan login sebagai dosen. Dosen dapat melakukan create, read, update dan delete pada jadwal konsultasi yang ada.
+Jika user memilih 2, maka ia akan login sebagai dosen. Dosen dapat melakukan create, read, update dan delete pada jadwal konsultasi yang ada.
 
 **3. Pilihan selain 1 dan 2:**
 
 ![{F001FD1C-F865-4BF6-A113-9172A40B8C88}](https://github.com/user-attachments/assets/e05ab4a3-732d-435c-a080-374378cbc621)
 
-apabila user melakukan input selain angka 1 dan 2 maka mode login tidak tersedia dan harus menginputkan angka yang benar agar bisa masuk ke program.
+apabila user melakukan input selain angka 1 dan 2, maka mode login tidak tersedia dan harus menginputkan angka yang benar agar bisa masuk ke program.
 
 ## Menu Mahasiswa
 
@@ -36,7 +36,7 @@ Berikut adalah tampilan dari menu mahasiswa yang saya buat:
 
 ### Penjelasan
 
-**1. Menampilkan jadwal komsultasi yang sudah terjadwal**
+**1. Menampilkan jadwal konsultasi yang sudah terjadwal**
 
 ![{C6914D5C-4E7A-434B-A227-29FDA213944D}](https://github.com/user-attachments/assets/5de286d0-6b47-4ec7-87db-46f69fe23dad)
 
